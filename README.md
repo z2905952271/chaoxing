@@ -146,7 +146,7 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 [7]: https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3749713206.png
 [1]: https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3207755264.jpg
 [2]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/437025077.jpg
-[3]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3185006214was.jpg
+[3]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3185006214.jpg
 [4]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/977504155.jpg
 [5]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/1888532943.jpg
 [6]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3351341396.jpg
